@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a DevOps Engineer at **Tenacitics Inc.**, working on cloud infrastructure, container platforms, CI/CD, and observability for the Xander Suite product. My day-to-day spans AWS, Kubernetes, Terraform, and production incident response — with a growing focus on applying the same automation and reliability principles to MLOps.
+I'm a DevOps Engineer , working on cloud infrastructure, container platforms, CI/CD, and observability. My day-to-day spans AWS, Kubernetes, Terraform, and production incident response — with a growing focus on applying the same automation and reliability principles to MLOps.
 
 ---
 
