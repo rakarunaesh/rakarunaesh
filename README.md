@@ -2,7 +2,7 @@
 
 # Hey, I'm Karunaesh RA 👋
 
-### DevOps Engineer &nbsp;•&nbsp; Cloud &amp; Platform Engineering &nbsp;•&nbsp; MLOps
+### DevOps Engineer/SRE &nbsp;•&nbsp; Cloud &amp; Platform Engineering &nbsp;•&nbsp; MLOps
 
 **Building reliable infrastructure, automated delivery pipelines, and production-ready systems.**
 
